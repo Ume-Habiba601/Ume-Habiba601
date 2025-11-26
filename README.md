@@ -20,10 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ume-habiba-a88716385/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ume-habiba-a88716385/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/umme.habiba901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ume-habiba901" height="30" width="40" /></a>
-  
-  
-<a h align="center" src=" https://www.instagram.com/umme.habiba901 alt="umme.habiba901"</a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
