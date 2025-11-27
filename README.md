@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ume Habiba</h1>
 <h3 align="center">A passionate frontend developer from Pakistan 🇵🇰</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ume-habiba601&label=Profile%20views&color=0e75b6&style=flat" alt="ume-habiba601" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ume-Habiba601&label=Profile%20views&color=0e75b6&style=flat" alt="Ume-Habiba601" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ume-habiba601" alt="ume-habiba601" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ume-Habiba601" alt="Ume-Habiba601" /></a> </p>
 
 - 🌱 I’m currently learning **Web & App Development**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **umme60107@gmail.com**
 
-- 📄 Know about my experiences [I'm good at cloning website Design😇]
+- ⚡Fun Fact I'm good at cloning website Design😇
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
